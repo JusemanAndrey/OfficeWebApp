@@ -1,0 +1,110 @@
+/*!
+ * Custom CSS for Chexmo
+ * Copyright 2015 Mirza Bros Limited.
+ */
+
+@media (max-width:768px)
+{
+    img.rightlogo
+    {
+        display: none;
+    }
+    .headline
+    {
+        display: none;
+    }
+    .input-hg-checkin, .btn-hg-checkin
+    {
+        height: 50px !important;
+    }
+    h2, .h2, h1, .h1
+    {
+        font-size: 32px;
+    }
+    h5, .h5, h6, .h6
+    {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:920px)
+{
+    img.rightlogo
+    {
+        display: none;
+    }
+    .headline
+    {
+        display: none;
+    }
+    .input-hg-checkin, .btn-hg-checkin
+    {
+        height: 70px;
+    }
+    h2, .h2
+    {
+        font-size: 32px;
+    }
+    h5, .h5, h6, .h6
+    {
+        font-size: 18px;
+    }
+}
+
+.signup
+{
+    padding: 90px 0 0 0;
+}
+
+.signup .logo
+{
+    display: block;
+    margin-bottom: 50px;
+}
+
+.chexmologo
+{
+    width: 350px;
+    height: 41px;
+    margin: 90px 0px 26px;
+    overflow: hidden;
+    text-indent: -9999em;
+    background: url(../images/chexmo-loyalty-right-logo.png) center 0 no-repeat;
+    background-size: 350px 41px;
+}
+
+.navbar-right
+{
+    margin-right: 0px;
+}
+
+
+
+.headline
+{
+    padding: 20px 0px 0px 0px;
+}
+
+section.navigation{
+    padding-bottom:90px;    
+}
+
+
+section.header
+{
+    padding: 30px 0px 20px 0px;
+}
+
+.input-hg-checkin, .btn-hg-checkin
+{
+    height: 80px;
+}
+
+section.slider
+{
+    padding-top: 30px;
+}
+
+.staffbutton {
+  margin: 10px 0px;
+}
